@@ -1,0 +1,49 @@
+name: allegra.collins
+description: instruction set
+version: 4.2.7.560
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: allegracollins
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-20 20:38:57'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-20 20:38:57'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-20T20:38:57.148979Z'
+  name: plibMaven
+  version: 8.8.0-SNAPSHOT
+  id: '293284814'
+  createdAt: '2024-12-20T20:38:57.148979Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
